@@ -18,9 +18,8 @@ We are using a data-driven neural net approach to fulfill text abstractive summa
 Our first choice is 1 which gives access to DUC dataset after completing some organization and individual agreements
 If we are not able to get it within time we will use 2.
 
-#Methods to be used
-
-->Till now we have concluded that we will be using a Recurent Nueral Network(RNN) with Long Short Term Memory(LSTM) encoder and decoder and build a sequence to sequence model. 
+# Methods to be used
+-> Till now we have concluded that we will be using a Recurent Nueral Network(RNN) with Long Short Term Memory(LSTM) encoder and decoder and build a sequence to sequence model. 
 
 # Environment Setup (Machine and Cloud)
 -> All of our work will be conducted on google cloud platform.
