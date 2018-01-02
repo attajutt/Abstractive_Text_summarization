@@ -12,11 +12,10 @@ Abstractive text summarization generates a shorter version of a given sentence w
 
 We have contributed in the following manner:
 
-(1)	We preprocess the data vigorously and remove any form of irregularities.
-(2)	Using pre-trained word embeddings from conecptnet number batch, Concept net 5.5 et al. (2017) rather then glove to significantly 	 improve performance as it provides a reduced bias of human like stereotypes.
-(3)	Experimenting with multiple model architectures are corpus to explore the best possible results and increased learning. 
-(4)	Provide a comparative model analysis of different techniques used and their respective ROGUE scores.
-(5)	A brief summary of the results here
+*We preprocess the data vigorously and remove any form of irregularities.
+*Using pre-trained word embeddings from conecptnet number batch, Concept net 5.5 et al. (2017) rather then glove to significantly 	 	improve performance as it provides a reduced bias of human like stereotypes.
+*Experimenting with multiple model architectures are corpus to explore the best possible results and increased learning. 
+*Provide a comparative model analysis of different techniques used and their respective ROGUE scores.
 
 **2. Methodology**
 
