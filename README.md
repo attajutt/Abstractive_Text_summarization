@@ -1,4 +1,4 @@
-#Abstractive Text summarization using Bi-directional Attentive sequence to sequence RNNs#
+#Abstractive Text summarization using Bi-directional Attentive sequence to sequence RNNs
 
 ##Abstract##
 
